@@ -1,0 +1,114 @@
+body {
+    margin: 0;
+    font-family: Verdana, sans-serif;
+    /*font-family: Arial, Helvetica, sans-serif;*/
+  }
+  .topnav {
+    overflow: hidden;
+    background-color: #357ba6;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 5%;
+    text-decoration: none;
+    font-size: 125x;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 5%;
+  }
+  
+  .bodyOfText {
+    padding: 5%;
+    font-weight: 300;
+    font-family: Verdana, sans-serif;
+  }
+  .bodyOfText h1 {
+    color: #367497;
+  }
+  
+  .button {
+    background-color: white;
+    border-color: #ec9959;
+    color: #ec9959;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .socialMedia {
+    padding-left: 5%;
+    font-weight: 300;
+    font-family: Verdana, sans-serif;
+  }
+  
+  .socialMedia h1 {
+    color: #367497;
+  }
+  
+  .btn {
+    background-color: #874bf4;
+    width: 150px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .button2 {
+    background-color: #3578ea;
+  }
+  .button3 {
+    background-color: #ea3223;
+  }
+  .testimonial {
+    padding: 5%;
+  }
+  .testimonial h1 {
+    color: #367497;
+  }
+  
+  .testimonial img {
+    border-radius: 50%;
+    width: 100px;
+  }
+  .talkingHeadAvatar {
+    display: flex;
+    padding: 1.5%;
+    background: #357ba6;
+  }
+  .talkingHeadAvatar p {
+    padding: 5%;
+    color: white;
+  }
+  .footer {
+    background-color: #357ba6;
+    padding-left: 5%;
+    color: white;
+  }
+  
+  .footer p {
+    margin: 0%;
+    font-weight: 500;
+  }
